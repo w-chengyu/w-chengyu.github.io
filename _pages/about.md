@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently pursuing my EngD at SUSTech and am co-supervised by Pengcheng Lab.My current research interest is in the reasoning ability of multimodal large models and trustworthy large models.
+I'm currently pursuing my Eng.D at SUSTech, co-supervised by Pengcheng Lab.My current research interest is in the reasoning ability of multimodal large models and trustworthy large models.
